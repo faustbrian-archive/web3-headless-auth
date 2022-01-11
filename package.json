@@ -1,0 +1,22 @@
+{
+  "name": "web3-headless-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faustbrian/web3-headless-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faustbrian/web3-headless-auth/issues"
+  },
+  "homepage": "https://github.com/faustbrian/web3-headless-auth#readme",
+  "dependencies": {
+    "@walletconnect/web3-provider": "^1.7.0"
+  }
+}
